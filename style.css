@@ -1,0 +1,59 @@
+body {
+  font-family: 'Lato', sans-serif;
+  background-color:#D1DBBD;
+}
+
+header .logo {
+  text-align:center;
+  font-weight:700;
+  color:#3E606F;
+}
+
+header nav{
+  text-align:center;
+  margin-bottom:20px;
+}
+
+header nav ul{
+  margin:0;
+  padding:0;
+}
+
+header nav ul li{
+  display:inline-block;
+
+}
+
+header nav ul li a{
+  text-decoration:none;
+  color:#193441;
+  margin-right:10px;
+  margin-left:10px;
+  text-transform: uppercase;
+}
+
+header nav ul li a:hover{
+  color:#FCFFF5;
+}
+
+.main{
+  text-align:center;
+}
+
+.main .map{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width:600px;
+  height:400px;
+  border:3px solid #91AA9D;
+  padding:5px;
+}
+
+.main input {
+  margin-top:30px;
+  width:140px;
+}
+
+/* Artist Pages */
+
